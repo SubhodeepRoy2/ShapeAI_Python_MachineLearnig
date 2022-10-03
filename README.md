@@ -25,5 +25,3 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 
-This is the Readme file.
-Hi
